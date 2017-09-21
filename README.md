@@ -1,5 +1,5 @@
 # wangEditor-fullscreen-plugin
-富文本编辑器wangEditor的全屏插件
+富文本编辑器wangEditor的全屏插件，适用于V3
 
 使用方法：
 1. 依赖jquery或者zepto，须先引入jquery或zepto。有兴趣可修改为无依赖版本，代码很简单。
