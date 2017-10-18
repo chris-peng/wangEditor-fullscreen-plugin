@@ -9,6 +9,6 @@
       var E = window.wangEditor;
       var editor = new E('#editor');
       editor.create();
-      E.fullscreen.init('#editor'd);
+      E.fullscreen.init('#editor');
       
 4. 完成。
